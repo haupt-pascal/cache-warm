@@ -637,18 +637,7 @@ interface EmailConfig {
   recipients: string[];
   sender: string;
   smtpConfig:
-
-## 💼 Vorteile
-
-- **Bessere User Experience** 👍 durch vorgewärmte Caches
-- **Geringere Serverlast** 📉 während Hochlastzeiten
-- **Höhere Conversion Rates** 💰 durch schnellere Ladezeiten
-- **Besseres SEO-Ranking** 🔍 durch verbesserte Performance-Metriken
-
-## 📝 Fazit
-
-Dieser Cache Warmer bietet eine effiziente Lösung für das Vorwärmen von Varnish und Shopware Caches. Durch den Einsatz von Bun und TypeScript wird eine maximale Performance erreicht, während die modulare Architektur Erweiterungen und Anpassungen erleichtert.
-
+```
 ---
 
 *Yeet your cache problems away with this fire solution!* 🔥👾
